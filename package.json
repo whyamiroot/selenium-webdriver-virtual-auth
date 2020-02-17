@@ -1,0 +1,27 @@
+{
+  "name": "js-selenium-webdriver-virtual-auth-example",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "automation",
+    "selenium",
+    "testing",
+    "webdriver",
+    "webdriverjs",
+    "authentication",
+    "virtualauthentication",
+    "u2f",
+    "2fa",
+    "webauthn"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "selenium-webdriver-js-virtual-auth": "^4.0.0-alpha.5-js-virtual-auth"
+  }
+}
